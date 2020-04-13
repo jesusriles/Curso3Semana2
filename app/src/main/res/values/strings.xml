@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Formulario de Contacto</string>
+
+    <string name="helper_text">*Required</string>
+
+    <string name="hint_name">Nombre Completo</string>
+    <string name="hint_borndate">Fecha de Nacimiento</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_description">Descripcion</string>
+
+    <string name="end_icon_date">Selecciona una Fecha</string>
+    <string name="button_text1">Siguiente</string>
+
+    <string name="button_text2">Editar Datos</string>
+    <string name="suffixName">Nombre: </string>
+
+</resources>
